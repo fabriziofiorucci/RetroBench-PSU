@@ -42,7 +42,7 @@ STL files can be printed using:
 - 1x Precision multiturn 10kOhm potentiometer ([link](https://www.aliexpress.com/item/32858999042.html))
 - 1x Miniature toggle switch single pole double throw ([link](https://www.aliexpress.com/item/33012530737.html))
 - 1x IEC 320 power plug socket 2.0mm AC-01-2, Copper Contact ([link](https://www.aliexpress.com/item/1005004921974470.html))
-- 3x 10A Digital Voltmeter Ammeter ([link](https://www.aliexpress.com/item/1005002338207839.html))
+- 3x M430 10A Digital Voltmeter Ammeter ([link](https://www.aliexpress.com/item/1005002338207839.html))
 - 1x MP1584EN Adjustable 3A DC-DC step down converter ([link](https://www.aliexpress.com/w/wholesale-mp1584en.html))
 
 ## Schematics
