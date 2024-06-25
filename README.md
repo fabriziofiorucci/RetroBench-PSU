@@ -45,6 +45,53 @@ STL files can be printed using:
 - 3x M430 10A Digital Voltmeter Ammeter ([link](https://www.aliexpress.com/item/1005002338207839.html))
 - 1x MP1584EN Adjustable 3A DC-DC step down converter ([link](https://www.aliexpress.com/w/wholesale-mp1584en.html))
 
+## GX16-8 pinout
+
+Connector pinout (solder side):
+
+| Pin | Description   |
+|-----|---------------|
+| 1   | GND           |
+| 2   | +5VDC         |
+| 3   | +9VDC         |
+| 4   | +12VDC        |
+| 5   | -12VDC        |
+| 6   | 9VAC          |
+| 7   | 9VAC          |
+| 8   | Shield ground |
+
+## Commodore pinouts
+
+### Commodore VIC-20
+
+7 Pin DIN connector - solder side
+
+| Pin | Description   |
+|-----|---------------|
+| 1   | GND           |
+| 2   | GND           |
+| 3   | GND           |
+| 4   | N/C           |
+| 5   | +5VDC         |
+| 6   | 9VAC          |
+| 7   | 9VAC          |
+
+### Commodore 16
+
+Barrel connector:
+
+- +9VDC, center negative
+
+### Commodore 64 & 128
+
+![Commodore 64 & 128 pinouts](/pics/C128_TO_C64_PSU-105237736.jpeg)
+
+![Side view](/pics/C64-Power-and-Cable-Pin-Numbers-1024x576.jpg)
+
+### Commodore Amiga 500
+
+![Amiga 500 pinout](/pics/amiga500-pinout.3.jpg)
+
 ## Schematics
 
 [WORK IN PROGRESS]
