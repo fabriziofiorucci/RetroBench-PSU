@@ -38,7 +38,7 @@ STL files can be printed using:
 - 1x Meanwell RT-65B power supply ([link](https://www.aliexpress.com/item/1005006587968530.html))
 - 1x Core transformer 220VAC to 9VAC ([link](https://www.aliexpress.com/item/4001293606204.html))
 - 1x `GX16-8` male & female connectors ([link](https://www.aliexpress.com/item/1005005686517100.html))
-- 4x red & black banana socket pairs ([link](https://www.aliexpress.com/item/32969822440.html)
+- 4x red & black banana socket pairs ([link](https://www.aliexpress.com/item/32969822440.html))
 - 1x Precision multiturn 10kOhm potentiometer ([link](https://www.aliexpress.com/item/32858999042.html))
 - 1x Miniature toggle switch single pole double throw ([link](https://www.aliexpress.com/item/33012530737.html))
 - 1x IEC 320 power plug socket 2.0mm AC-01-2, Copper Contact ([link](https://www.aliexpress.com/item/1005004921974470.html))
